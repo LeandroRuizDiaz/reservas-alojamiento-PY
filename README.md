@@ -1,2 +1,2 @@
-# caba-as
+# reservas
 Sistema web de reservas de cabañas en Puerto Yeruá. 
